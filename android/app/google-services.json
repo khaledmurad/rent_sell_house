@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "721833442726",
+    "firebase_url": "https://housemate-93c6a-default-rtdb.firebaseio.com",
+    "project_id": "housemate-93c6a",
+    "storage_bucket": "housemate-93c6a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:721833442726:android:bb16fa0a446f44d8e92367",
+        "android_client_info": {
+          "package_name": "com.khaledmurad.home_mate_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "721833442726-r5o0q2gu9hju11blm5udh2o0brc8pd29.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.khaledmurad.home_mate_app",
+            "certificate_hash": "335fd22f957d33766239cb7cd2c467b2e8a32c96"
+          }
+        },
+        {
+          "client_id": "721833442726-1n8g452q19h7gm71u37ku4pspqf6ck6n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVOgAVFDssYB2zhFCIJxtA3PHAIq_5X8g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "721833442726-1n8g452q19h7gm71u37ku4pspqf6ck6n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
